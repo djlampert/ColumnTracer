@@ -5,3 +5,7 @@ This repository consists of a Jupyter notebook that contains Python code to calc
 The notebook can be viewed here:  
 
 https://nbviewer.jupyter.org/github/djlampert/ColumnTracer/blob/master/Column%20Advection-Dispersion%20Model.ipynb
+
+A video describing the tool is available here:
+
+https://youtu.be/su0ZQnowpVE

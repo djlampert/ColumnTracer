@@ -1,13 +1,7 @@
-name: example-environment
+name: column-environment
 channels:
-  - conda-forge
+  - defaults
 dependencies:
   - python
   - numpy
   - scipy
-  - pip
-  - pip:
-    - nbgitpuller
-    - sphinx-gallery
-    - pandas
-    - matplotlib

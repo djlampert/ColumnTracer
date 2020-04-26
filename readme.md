@@ -15,3 +15,7 @@ https://youtu.be/su0ZQnowpVE
 An interactive version of the notebook is available to try out here:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/djlampert/ColumnTracer/master?filepath=Column%20Advection-Dispersion%20Model.ipynb)
+
+If you make use of the software, please cite the following:
+
+https://zenodo.org/badge/DOI/10.5281/zenodo.3767064.svg

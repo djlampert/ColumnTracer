@@ -1,11 +1,19 @@
-## ColumnTracer
+## ColumnTracer  
 ### David Lampert, PhD, PE  
-This repository consists of a Jupyter notebook that contains Python code to calculate values from an analytical solution to the one-dimensional advection-diffusion equation. 
+david.lampert@okstate.edu  
 
-The notebook can be viewed here:  
+This repository consists of a Jupyter notebook that contains Python code to calculate values from an analytical solution to the one-dimensional advection-diffusion equation. The model describes the transport of a non-reactive tracer through a column.
+
+A read-only version of the notebook can be viewed here:  
 
 https://nbviewer.jupyter.org/github/djlampert/ColumnTracer/blob/master/Column%20Advection-Dispersion%20Model.ipynb
+
+An interactive version of the notebook is available to try out here:
+
+https://mybinder.org/v2/gh/djlampert/ColumnTracer/master?filepath=Column%20Advection-Dispersion%20Model.ipynb
 
 A video describing the tool is available here:
 
 https://youtu.be/su0ZQnowpVE
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/djlampert/ColumnTracer/master?filepath=Column%20Advection-Dispersion%20Model.ipynb)
